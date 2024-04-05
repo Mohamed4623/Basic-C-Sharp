@@ -1,0 +1,15 @@
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\bin\Debug\net7.0\Switch.exe
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\bin\Debug\net7.0\Switch.deps.json
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\bin\Debug\net7.0\Switch.runtimeconfig.json
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\bin\Debug\net7.0\Switch.dll
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\bin\Debug\net7.0\Switch.pdb
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\obj\Debug\net7.0\Switch.csproj.AssemblyReference.cache
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\obj\Debug\net7.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\obj\Debug\net7.0\Switch.AssemblyInfoInputs.cache
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\obj\Debug\net7.0\Switch.AssemblyInfo.cs
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\obj\Debug\net7.0\Switch.csproj.CoreCompileInputs.cache
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\obj\Debug\net7.0\Switch.dll
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\obj\Debug\net7.0\refint\Switch.dll
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\obj\Debug\net7.0\Switch.pdb
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\obj\Debug\net7.0\Switch.genruntimeconfig.cache
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\Switch\obj\Debug\net7.0\ref\Switch.dll

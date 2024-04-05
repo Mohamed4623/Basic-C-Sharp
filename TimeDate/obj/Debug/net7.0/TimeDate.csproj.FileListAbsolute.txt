@@ -1,0 +1,15 @@
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\bin\Debug\net7.0\TimeDate.exe
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\bin\Debug\net7.0\TimeDate.deps.json
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\bin\Debug\net7.0\TimeDate.runtimeconfig.json
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\bin\Debug\net7.0\TimeDate.dll
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\bin\Debug\net7.0\TimeDate.pdb
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\obj\Debug\net7.0\TimeDate.csproj.AssemblyReference.cache
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\obj\Debug\net7.0\TimeDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\obj\Debug\net7.0\TimeDate.AssemblyInfoInputs.cache
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\obj\Debug\net7.0\TimeDate.AssemblyInfo.cs
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\obj\Debug\net7.0\TimeDate.csproj.CoreCompileInputs.cache
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\obj\Debug\net7.0\TimeDate.dll
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\obj\Debug\net7.0\refint\TimeDate.dll
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\obj\Debug\net7.0\TimeDate.pdb
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\obj\Debug\net7.0\TimeDate.genruntimeconfig.cache
+C:\Users\MohamedArshadMagdoom\OneDrive - Syncfusion\Desktop\Assignments\TimeDate\obj\Debug\net7.0\ref\TimeDate.dll
